@@ -1,2 +1,3 @@
 # Python_Basic
-This repository contains all fundamental operation on Python
+Hi Begineers 
+This repository contains all fundamental operations on Python
